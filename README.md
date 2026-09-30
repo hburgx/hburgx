@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Harrison 
 
-<!--
-**idk24924/idk24924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud computing student based in KS — building toward a career in enterprise storage and infrastructure
 
-Here are some ideas to get you started:
+## What I'm working with
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Tools:** VS Code, Linux, Git
+- **Focus:** Cloud computing, networking, cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+-  Studying cloud computing at WSU Tech
+-  Building out my portfolio site
+-  Getting into Linux and privacy/security tooling
+
+## Goals
+Working toward roles in cloud infrastructure and storage — specifically interested in NetApp.
+
+## Connect
+-  Portfolio: *coming soon*##
