@@ -16,4 +16,4 @@ Cloud computing student based in KS — building toward a career in enterprise s
 Working toward roles in cloud infrastructure and storage — specifically interested in NetApp.
 
 ## Connect
--  Portfolio: *coming soon*##
+-  Portfolio: *coming soon*
