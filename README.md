@@ -20,5 +20,5 @@ Working toward roles in cloud infrastructure and storage — specifically intere
 
 
 <a href="#">
-  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=idk24924&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=hburgx&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
 </a>
