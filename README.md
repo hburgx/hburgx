@@ -19,6 +19,11 @@ Working toward roles in cloud infrastructure and storage — specifically intere
 -  Portfolio: *coming soon*
 
 
+
+
+<a href="#">
+  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api?username=hburgx&show_icons=true&theme=synthwave" />
+</a>
 <a href="#">
   <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=hburgx&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
 </a>
