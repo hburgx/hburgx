@@ -17,3 +17,10 @@ Working toward roles in cloud infrastructure and storage — specifically intere
 
 ## Connect
 -  Portfolio: *coming soon*
+
+-  <a href="#">
+  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
